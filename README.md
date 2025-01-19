@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3ys3l&label=Profile%20views&color=0f0f0f&style=flat" alt="v3ys3l" /> </p>
 
-- 🌱 I’m currently learning **C,C++,C# Dart(Flutter)**
+- 🌱 I’m currently learning **C, C++, C#, Dart(Flutter)**
 
 - 📫 How to reach me **v3ys3lofficial@gmail.com**
 
